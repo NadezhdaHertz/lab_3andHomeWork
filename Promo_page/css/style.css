@@ -1,0 +1,34 @@
+* {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.title {
+    margin-top: 90px;
+    font: 58px/64px "Crete Round", serif;
+    letter-spacing: 2.9px;
+    width: 500px;
+    color: #060C31;
+}
+
+.text {
+    margin-top: 36px;
+    letter-spacing: 0.75px;
+    margin-bottom: 48px;
+    width: 500px;
+    font: 400 15px/28px "Lato", sans-serif;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.header {
+    margin-top: 60px;
+}
+
+.photo {
+    margin-top: 28px;
+}
